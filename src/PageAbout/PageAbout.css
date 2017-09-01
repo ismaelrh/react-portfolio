@@ -1,0 +1,129 @@
+.sectionBox.card {
+  padding-top: 10px;
+  margin-top: 10px;
+  padding-left: 5px;
+}
+
+
+.sectionBox.card:hover {
+	background: #007bbf !important;
+	color:white;
+	text-decoration: none;
+
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+}
+
+
+.sectionBox {
+	color: black;
+
+}
+
+
+
+
+.sectionBox.card .section-icon {
+	font-size: 80px;
+}
+
+
+.sectionBox.card:hover .section-icon{
+	color:white;
+
+	font-size: 100px;
+	margin-top: -10px !important;
+	margin-bottom: -10px !important;
+
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+}
+
+.sectionBox .section-image {
+	width: 90px;
+	display: block;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.sectionBox.card:hover .section-image{
+	filter: invert(100%);
+	width: 110px;
+	margin-top: -3px !important;
+	margin-bottom: -3px !important;
+	
+	-webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+}
+
+
+.personalInfoBox {
+	padding-bottom: 10px !important; 
+	padding-top: 10px !important;
+}
+
+
+.contact a {
+	color: black;
+}
+
+.contactMethods {
+	display:block;
+	margin:auto;
+}
+
+
+.contactIcon {
+	font-size: 30px;
+	display:block;
+	margin-top: -15px;
+	margin-bottom: -10px;
+
+
+}
+
+.contactText {
+
+	font-size: 0.8em;
+
+}
+
+
+.avatarImg {
+	width: 100px;
+	border-radius: 15px;
+}
+
+.avatarImgSmall {
+	width: 100px;
+	display:block;
+	margin:auto;
+	border-radius: 15px;
+	margin-bottom:5px;
+}
+
+
+.title div {
+	float: left;
+    clear: none; 
+}
+
+.wrapper {
+  text-align: center;
+}
+.title {
+  display: inline-block;
+  margin-bottom: -10px;
+}
+
+#avatarDiv {
+	margin-right:10px;
+}
+

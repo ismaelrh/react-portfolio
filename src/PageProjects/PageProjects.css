@@ -1,0 +1,46 @@
+
+.projectBox h3 {
+	font-size: 1.5em;
+	padding: 5px;
+}
+
+
+.projectBox .badge {
+	margin-right: 10px;
+}
+
+.projectBox .image {
+ 
+    border-radius:5px;
+    overflow:hidden;
+}
+
+
+.projectBox .card-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  max-height: 90px;
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+
+.projectBox .card-block {
+  margin-top: 20px;
+  padding-bottom: 75px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card-deck {
+	margin-top: 20px;
+}
+
+#projectsSubtitle {
+  width: 100%;
+  font-size: 1.3em;
+  margin-bottom: 30px;
+  text-align:center;
+}
+
+  

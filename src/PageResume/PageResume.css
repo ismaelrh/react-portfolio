@@ -1,0 +1,23 @@
+#cvImg {
+	display:block;
+	margin:auto;
+	width: 100%;
+}
+
+#cvDownload {
+	width: 100%;
+	font-size: 1.3em;
+	margin-bottom: 30px;
+	text-align:center;
+}
+
+
+
+@media (min-width: 992px) {  /*On big screens, reduce width of resume to look better*/
+	#cvImg {
+		display:block;
+		margin:auto;
+		width: 80%;
+	}
+
+}
