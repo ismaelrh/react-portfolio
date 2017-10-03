@@ -37,9 +37,7 @@ class PageAbout extends Component {
           
 
           <p className="my-4">
-          Hello! I'm a software engineer that loves Web Development and Semantic Web. 
-          I am currently in my last year of a Master's Degree in Innovation in Informatics at <a target="_blank" href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics">UPC Barcelona</a>, 
-          and I got my Bachelor’s Degree in Computer Science and Engineering in 2016 at <a target="_blank" href="http://www.unizar.es/university-zaragoza">University of Zaragoza</a>.
+          Hello! I'm a software engineer that loves Web Development and Data Processing. I work in <a target="_blank" href="https://www.datumize.com">Datumize</a> while studying my last year of a Master's Degree in Innovation in Informatics at <a target="_blank" href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics">UPC Barcelona</a>. I got my Bachelor’s Degree in Computer Science and Engineering in 2016 at <a target="_blank" href="http://www.unizar.es/university-zaragoza">University of Zaragoza</a>.
           <br/>
           <br/>
           I'm constantly learning new languages and creating my own personal projects. Besides, I really enjoy attending hackathons, reading fantasy books, and running.
