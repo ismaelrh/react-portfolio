@@ -1,5 +1,13 @@
 const hackathons = [
 	{
+		date: 'March 2018',
+		name: 'SIX Hackathon',
+		url: 'https://www.six-group.com/about/en/site/hackathon.html',
+		place: 'Zurich',
+		project: 'InveStore',
+		projectUrl: ''
+	},
+	{
 		date: 'March 2017',
 		name: 'SIX Hackathon',
 		url: 'https://www.six-group.com/about/en/site/hackathon.html',

@@ -37,11 +37,14 @@ class PageAbout extends Component {
           
 
           <p className="my-4">
-          Hello! I'm a software engineer that loves Web Development and Data Processing. I work in <a target="_blank" href="https://www.datumize.com">Datumize</a> while studying my last year of a Master's Degree in Innovation in Informatics at <a target="_blank" href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics">UPC Barcelona</a>. I got my Bachelor’s Degree in Computer Science and Engineering in 2016 at <a target="_blank" href="http://www.unizar.es/university-zaragoza">University of Zaragoza</a>.
+          I'm a Software Engineer working as a Java Backend developer at <a target="_blank" href="https://www.datumize.com">Datumize</a>.  
+          I got my Bachelor’s Degree in Computer Science and Engineering in 2016 at&nbsp;<a target="_blank" href="http://www.unizar.es/university-zaragoza">University of Zaragoza</a>, and a Master's Degree in Innovation in Informatics at&nbsp;  
+          <a target="_blank" href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics">UPC Barcelona</a>.
           <br/>
           <br/>
-          I'm constantly learning new languages and creating my own personal projects. Besides, I really enjoy attending hackathons, reading fantasy books, and running.
-          Take a look at my resume, my list of project, my blog or the hackathons I've attended to know more about me :)
+          I'm constantly learning new languages and tools , and creating my own personal projects.
+          Besides, I really enjoy attending hackathons, reading science books, and running.
+          Take a look at my resume, my list of project, my blog or the hackathons I've attended to know more about me.
           <br/>
           <br/>
           Please feel free to <a href="mailto:ismaro.394@gmail.com">contact me</a>.
