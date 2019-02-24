@@ -42,7 +42,7 @@ class PageAbout extends Component {
           <a target="_blank" href="https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics">UPC Barcelona</a>.
           <br/>
           <br/>
-          I'm constantly learning new languages and tools , and creating my own personal projects.
+          I'm constantly learning new languages and tools, and creating my own personal projects.
           Besides, I really enjoy attending hackathons, reading science books, and running.
           Take a look at my resume, my list of project, my blog or the hackathons I've attended to know more about me.
           <br/>
@@ -50,7 +50,8 @@ class PageAbout extends Component {
           Please feel free to <a href="mailto:ismaro.394@gmail.com">contact me</a>.
           </p>
           <hr/>
-          <div className="contactMethods row">  {/*Social networks, mail, etc. */}
+          
+          <div className="contactMethods row"> 
             <div className="contact col-3 text-center">
               <a href="mailto:ismaro.394@gmail.com" target="_blank"><span className="contactIcon text-center"><i className="fa fa-envelope-o"/></span>
               <span className="contactText text-center">ismaro.394 at gmail dot com</span></a>

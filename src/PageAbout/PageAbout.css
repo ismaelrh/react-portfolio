@@ -6,7 +6,7 @@
 
 
 .sectionBox.card:hover {
-	background: #007bbf !important;
+	background: #53bdd0 !important;
 	color:white;
 	text-decoration: none;
 
@@ -74,9 +74,13 @@
 	color: black;
 }
 
+.contact a:hover{
+	color: #53bdd0;
+	text-decoration:none;
+}
+
 .contactMethods {
-	display:block;
-	margin:auto;
+
 }
 
 
