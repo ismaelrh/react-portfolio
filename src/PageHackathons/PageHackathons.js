@@ -28,7 +28,8 @@ class PageHackathons extends Component {
         <div id="hackathonsText">
           Here's a list of hackathons I've attended
         </div>
-        <table className="table table-striped table-responsive" id="hackathonsTable">
+        <div className="table-responsive">
+         <table className="table table-striped" id="hackathonsTable">
           <thead>
             <tr>
               <th>Date</th>
@@ -41,6 +42,8 @@ class PageHackathons extends Component {
             {rows}
           </tbody>
       </table>
+        </div>
+       
       </div>
       
     );

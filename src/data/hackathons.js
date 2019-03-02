@@ -1,5 +1,13 @@
 const hackathons = [
 	{
+		date: 'November 2018',
+		name: 'HackEPS',
+		url: 'https://lleidahack.github.io/hackeps2018/welcome',
+		place: 'Lleida',
+		project: 'ML project',
+		projectUrl: ''
+	},
+	{
 		date: 'March 2018',
 		name: 'SIX Hackathon',
 		url: 'https://www.six-group.com/about/en/site/hackathon.html',

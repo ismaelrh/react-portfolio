@@ -44,7 +44,7 @@ class PageAbout extends Component {
           <br/>
           I'm constantly learning new languages and tools, and creating my own personal projects.
           Besides, I really enjoy attending hackathons, reading science books, and running.
-          Take a look at my resume, my list of project, my blog or the hackathons I've attended to know more about me.
+          Take a look at my CV, my list of project, my blog or the hackathons I've attended to know more about me.
           <br/>
           <br/>
           Please feel free to <a href="mailto:ismaro.394@gmail.com">contact me</a>.
@@ -53,27 +53,27 @@ class PageAbout extends Component {
           
           <div className="contactMethods row"> 
             <div className="contact col-3 text-center">
-              <a href="mailto:ismaro.394@gmail.com" target="_blank"><span className="contactIcon text-center"><i className="fa fa-envelope-o"/></span>
+              <a href="mailto:ismaro.394@gmail.com" target="_blank"><span className="contactIcon text-center"><i className="fas fa-envelope"/></span>
               <span className="contactText text-center">ismaro.394 at gmail dot com</span></a>
             </div>
             <div className="contact col-3 text-center">
-              <a href="https://github.com/ismaro3" target="_blank"><span className="contactIcon text-center"><i className="fa fa-github"/></span>
-              <span className="contactText text-center">ismaro3</span></a>
-            </div>
-             <div className="contact col-3 text-center">
-              <a href="https://www.linkedin.com/in/ismaelrh" target="_blank"><span className="contactIcon text-center"><i className="fa fa-linkedin-square"/></span>
+              <a href="https://github.com/ismaro3" target="_blank"><span className="contactIcon text-center"><i className="fab fa-github"/></span>
               <span className="contactText text-center">ismaelrh</span></a>
             </div>
              <div className="contact col-3 text-center">
-              <a href="https://twitter.com/ismaro3" target="_blank"><span className="contactIcon text-center"><i className="fa fa-twitter-square"/></span>
-              <span className="contactText text-center">ismaro3</span></a>
+              <a href="https://www.linkedin.com/in/ismaelrh" target="_blank"><span className="contactIcon text-center"><i className="fab fa-linkedin"/></span>
+              <span className="contactText text-center">ismaelrh</span></a>
+            </div>
+             <div className="contact col-3 text-center">
+              <a href="https://www.instagram.com/coding_isma/" target="_blank"><span className="contactIcon text-center"><i className="fab fa-instagram"/></span>
+              <span className="contactText text-center">coding_isma</span></a>
             </div>
           </div>
         </div>
         <div className="card-deck">
-          <SectionBox title='Resume / CV' icon='fa-address-card-o' target='/resume'/>
+          <SectionBox title='CV' icon='far fa-address-card' target='/resume'/>
           <SectionBox title='Projects' icon='fa-th' target='/projects'/>
-          <SectionBox title='Blog' icon='fa-file-text-o' link='http://blog.ismaelrh.com'/>
+          <SectionBox title='Blog' icon='fas fa-file-alt' link='http://blog.ismaelrh.com'/>
           <SectionBox title='Hackathons' image={process.env.PUBLIC_URL + '/images/hackathon-icon.png'} target='/hackathons'/>
         </div>
       </div>

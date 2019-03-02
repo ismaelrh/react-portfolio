@@ -1,5 +1,32 @@
 const projects = [
-	
+	{
+	 	title: 'Datumize Motion',
+	 	url: 'https://www.datumize.com/warehousing-industries',
+	 	image: 'motion.png',
+	 	description: 'Main developer, created in Datumize. System that tracks forklifts inside a warehouse using existing WiFi infrastructure and AI algorithms to improve efficiency.',
+	 	prize: '',
+	 	tags: {
+	 		types: ['system'],
+	 		languages: ['java'],
+	 		libraries: [],
+	 		others: ['AI','innovation','WiFi']
+
+	 	}
+	 },
+	 {
+	 	title: 'Datumize Web Collector',
+	 	url: 'http://hdl.handle.net/2117/127550',
+	 	image: 'dwc.png',
+	 	description: 'Main developer, created in Datumize. Typescript library to capture interactions of web visitors without altering the code of the website, and Big Data Platform to extract analytics from such data.',
+	 	prize: 'Maximum Score with honors in my Master Thesis',
+	 	tags: {
+	 		types: ['big data'],
+	 		languages: ['typescript','java'],
+	 		libraries: ['spark','hbase','elasticsearch'],
+	 		others: ['Master Thesis']
+
+	 	}
+	 },
 	 {
 	 	title: 'DBpedia Mappings UI',
 	 	url: 'http://blog.ismaelrh.com/GSOC-2017/',

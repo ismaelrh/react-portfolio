@@ -13,7 +13,7 @@ class Navbar extends Component {
         	<div className="float-right">
             <NavLink exact to="/" activeClassName="active">Home</NavLink>
         		&nbsp;/&nbsp;
-        		<NavLink to="/resume" activeClassName="active">Resume</NavLink>
+        		<NavLink to="/resume" activeClassName="active">CV</NavLink>
         		&nbsp;/&nbsp;
         		<NavLink to="/projects" activeClassName="active">Projects</NavLink>
         		&nbsp;/&nbsp;

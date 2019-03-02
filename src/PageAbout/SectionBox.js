@@ -22,7 +22,7 @@ class SectionBox extends Component {
        result = <a href={this.props.link} className="card border-default bg-light sectionBox">
              <div className="card-block">
               <h3 className="card-title text-center">{this.props.title}</h3>
-              { this.props.icon && <p className="section-icon text-center"><i className={'fa ' + this.props.icon}/></p>}
+              { this.props.icon && <p className="section-icon text-center"><i className={this.props.icon}/></p>}
               { this.props.image && <img className="section-image" src={this.props.image}/> }
            </div>
           </a>;
