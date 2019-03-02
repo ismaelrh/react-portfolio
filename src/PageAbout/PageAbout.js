@@ -57,7 +57,7 @@ class PageAbout extends Component {
               <span className="contactText text-center">ismaro.394 at gmail dot com</span></a>
             </div>
             <div className="contact col-3 text-center">
-              <a href="https://github.com/ismaro3" target="_blank"><span className="contactIcon text-center"><i className="fab fa-github"/></span>
+              <a href="https://github.com/ismaelrh" target="_blank"><span className="contactIcon text-center"><i className="fab fa-github"/></span>
               <span className="contactText text-center">ismaelrh</span></a>
             </div>
              <div className="contact col-3 text-center">
