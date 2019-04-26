@@ -1,18 +1,4 @@
 const projects = [
-	{
-	 	title: 'Datumize Motion',
-	 	url: 'https://www.datumize.com/warehousing-industries',
-	 	image: 'motion.png',
-	 	description: 'Main developer, created in Datumize. System that tracks forklifts inside a warehouse using existing WiFi infrastructure and AI algorithms to improve efficiency.',
-	 	prize: '',
-	 	tags: {
-	 		types: ['system'],
-	 		languages: ['java'],
-	 		libraries: [],
-	 		others: ['AI','innovation','WiFi']
-
-	 	}
-	 },
 	 {
 	 	title: 'Datumize Web Collector',
 	 	url: 'http://hdl.handle.net/2117/127550',
@@ -43,7 +29,7 @@ const projects = [
 	 },
 	 {
 	 	title: 'React Portfolio',
-	 	url: 'https://github.com/ismaro3/react-portfolio',
+	 	url: 'https://github.com/ismaelrh/react-portfolio',
 	 	image: 'react-portfolio.png',
 	 	description: 'This webpage. Web Developer portfolio created with React and Bootstrap 4. Includes "about", "projects", "hackathons" and "resume" sections.',
 	 	prize: '',
@@ -57,7 +43,7 @@ const projects = [
 	 },
 	 {
 	 	title: '©-graph',
-	 	url: 'https://github.com/ismaro3/c-graph',
+	 	url: 'https://github.com/ismaelrh/c-graph',
 	 	image: 'cgraph.png',
 	 	description: 'Tool to visualize relationships between groups of copyright-related papers. Multiple grouping criterias can be applied. Good-looking and easy to use.',
 	 	prize: '',
@@ -127,7 +113,7 @@ const projects = [
 	 },
 	  {
 	 	title: 'WallaPoints!',
-	 	url: 'https://github.com/ismaro3/wallapoints',
+	 	url: 'https://github.com/ismaelrh/wallapoints',
 	 	image: 'wallapoints.png',
 	 	description: 'Interactive map where users can mark their favourite points of interest and calculate routes. They can also visualize stats, follow users and rate other points.',
 	 	prize: '',
@@ -141,7 +127,7 @@ const projects = [
 	 },
 	 {
 	 	title: 'ZGZ-Tram',
-	 	url: 'https://ismaro3.github.io/zgztram',
+	 	url: 'https://github.com/ismaelrh/zgztram',
 	 	image: 'zgztram.png',
 	 	description: 'A simple web application that shows Zaragoza\'s Tramway times on a map, using Zaragoza OpenData.',
 	 	prize: '',
@@ -155,7 +141,7 @@ const projects = [
 	 },
 	 {
 	 	title: 'Chip-8',
-	 	url: 'https://github.com/ismaro3/Java-chip8-emulator',
+	 	url: 'https://github.com/ismaelrh/Java-chip8-emulator',
 	 	image: 'chip8.png',
 	 	description: 'A simple Chip-8 system emulator written in Java that runs all the available ROMs.',
 	 	prize: '',
@@ -183,7 +169,7 @@ const projects = [
 	 },
 	 {
 	 	title: 'Twitter Contest Bot',
-	 	url: 'https://github.com/ismaro3/Twitter-Contest-Bot',
+	 	url: 'https://github.com/ismaelrh/Twitter-Contest-Bot',
 	 	image: 'twitterbot.png',
 	 	description: 'A Twitter bot that search for "Follow and Retweet to WIN..." tweets and participates in such contests.',
 	 	prize: '',
@@ -197,7 +183,7 @@ const projects = [
 	 },
 	 {
 	 	title: 'San Lorenzo App',
-	 	url: 'https://github.com/ismaro3/sanLorenzo-ionic',
+	 	url: 'https://github.com/ismaelrh/sanLorenzo-ionic',
 	 	image: 'sanlorenzo.png',
 	 	description: 'Mobile app that contains an interactive guide of San Lorenzo festivities at Huesca. Includes maps, images and favourites among other information. Updated every year.',
 	 	prize: '',
@@ -267,7 +253,7 @@ const projects = [
 	 },
 	 {
 	 	title: 'Conway\'s game of life',
-	 	url: 'https://github.com/ismaro3/lifesgame',
+	 	url: 'https://github.com/ismaelrh/lifesgame',
 	 	image: 'cells.png',
 	 	description: 'Simple Java implementation of Conway\'s game of life.',
 	 	prize: '',
